@@ -32,4 +32,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## Authors
 
-* **Eko Setiawan** - *Office Support* - [ehkoqtau](https://github.com/ehkoqtau)
+* **Eko Setiawan** - *@ehkoqtau* - [ehkoqtau](https://github.com/ehkoqtau)
